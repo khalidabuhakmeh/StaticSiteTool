@@ -7,7 +7,7 @@ This repository allows us to generate static `HTML` files from our ASP.NET Core 
 ### Build the Static Pages
 
 ```console
-> dotnet run static pages
+> dotnet run staticpages
 ```
 
 ### Run ASP.NET Core MVC app
